@@ -1,0 +1,68 @@
+.pane .left_pane {
+    background-color: rgba(255, 249, 249, 0.9);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 5px;
+    width: min-content;
+}
+
+.left_pane ul li img {
+    width: 25px;
+    height: 25px;
+}
+
+nav {
+    width: 400px;
+    height: 400px;
+}
+
+.left_pane ul li {
+    display: inline;
+}
+
+.pane .left_pane nav ul li .i img {
+    width: 250px;
+    height: 200px;
+    padding-right: 40px;
+}
+
+.pane .left_pane nav ul li #back {
+    font-size: larger;
+    height: max-content;
+    padding-top: 50px;
+    padding-left: 70px;
+}
+
+.pane .left_pane nav ul li #back a {
+   color: rgb(127, 193, 255);
+   text-decoration: none;
+}
+
+.pane .left_pane nav ul li #back a:hover {
+    color: rgb(26, 108, 10);
+ }
+
+ .pane .left_pane nav ul li #back a:active {
+    color: rgb(108, 10, 10);
+ }
+
+.pane .left_pane {
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.pane {
+    display: flex;
+    align-items: center;
+}
+
+.pane p {
+    padding: 70px;
+}
+
+.pane .right_pane h1 {
+    padding-left: 70px;
+}
+
+.pane .right_pane p {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 0px 0px 0px;
+}

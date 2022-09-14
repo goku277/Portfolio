@@ -1,0 +1,36 @@
+table td {
+    text-align: center;
+    border-style: hidden;
+    border-collapse: collapse;
+    padding: auto;
+    padding-bottom: 40px;
+    color: #000000
+}
+
+body h1 {
+    padding-left: 400px;
+    padding-top: 40px;
+}
+
+td {
+    width: 500px
+}
+
+table {
+    border-color: rgb(234, 16, 49);
+    border-style: double;
+    width: max-content;
+    border-radius: 5px;
+}
+
+.table_1 {
+    align-items: center;
+    width: 50%;
+    padding-left: 400px;
+}
+
+table img {
+    width: 150px;
+    height: 150px;
+    padding-top: 50px;
+}
